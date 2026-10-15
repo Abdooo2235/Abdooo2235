@@ -1,7 +1,11 @@
-name: Refresh contribution animation
+name: Refresh GitHub activity
 
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - README.md
+      - .github/workflows/contributions.yml
 
 permissions:
   contents: write
@@ -22,11 +26,21 @@ jobs:
           outputs: |
             assets/contributions.svg?color_snake=%230969da
             assets/contributions-dark.svg?palette=github-dark&color_snake=%2358a6ff
+      - name: Generate light contribution card
+        uses: DenverCoder1/github-readme-streak-stats@d855de1a23fe45bdda5ffbc28a6d4b80b0f107e1 # v1
+        with:
+          options: user=${{ github.repository_owner }}&hide_border=true&background=FFFFFF&ring=0969DA&fire=0969DA&currStreakLabel=0969DA&disable_animations=true
+          path: assets/streak.svg
+      - name: Generate dark contribution card
+        uses: DenverCoder1/github-readme-streak-stats@d855de1a23fe45bdda5ffbc28a6d4b80b0f107e1 # v1
+        with:
+          options: user=${{ github.repository_owner }}&theme=github-dark-blue&hide_border=true&background=0D1117&disable_animations=true
+          path: assets/streak-dark.svg
       - name: Save generated SVGs
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/contributions.svg assets/contributions-dark.svg
+          git add assets/contributions.svg assets/contributions-dark.svg assets/streak.svg assets/streak-dark.svg
           if git diff --cached --quiet; then exit 0; fi
-          git commit -m "chore: refresh contribution animation"
+          git commit -m "chore: refresh GitHub activity cards"
           git push
