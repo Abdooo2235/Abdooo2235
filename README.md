@@ -2,7 +2,7 @@
 <p align="center"><strong>Software Engineer · Full-Stack Developer</strong><br>Benghazi, Libya</p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=3000&amp;pause=1600&amp;color=2F81F7&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=45&amp;lines=Building+with+React+%2B+Laravel+%2B+Node.js;Crafting+mobile+apps+with+Flutter;Turning+ideas+into+working+software" width="600" alt="Building with React, Laravel, Node.js and Flutter" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=3000&amp;pause=1600&amp;color=2F81F7&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=45&amp;lines=Web+applications+and+REST+APIs;Cross-platform+apps+with+Flutter" width="600" alt="Web applications, REST APIs and cross-platform apps with Flutter" /></a>
 </p>
 
 <p align="center">
@@ -10,9 +10,9 @@
   <a href="https://github.com/Abdooo2235?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore_projects-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Explore my projects" /></a>
 </p>
 
-Full-stack development at **Wahda Bank** · **GDG volunteer & software project developer**, including **Sawti**.
+I'm a software engineer in Benghazi. I work on trade-finance software at **Wahda Bank** and volunteer with **GDG**, where I've helped develop projects such as **Sawti**.
 
-### Tech stack
+### Tools I use
 
 <p align="center">
   <a href="https://github.com/tandpfun/skill-icons">
@@ -23,34 +23,43 @@ Full-stack development at **Wahda Bank** · **GDG volunteer & software project d
   </a>
 </p>
 
-### Selected projects
+### Projects
 
-| Project | What I'm building | Stack |
-| :--- | :--- | :--- |
-| **FoodScan / LibyaScan AI** | Bilingual food-label scanning and nutrition OCR · **In development, private** | Flutter · Laravel · FastAPI · PaddleOCR |
-| **Wahda Bank** | Trade-finance documents, approvals and compliance · **Private** | Laravel · React · MySQL |
-| **Sawti** | Software project developed through my GDG participation · **Private** | Voice AI |
-| **Book Reader** · [App](https://github.com/Abdooo2235/book-reader-flutter) / [API](https://github.com/Abdooo2235/book-reader-store-backend) / [Admin](https://github.com/Abdooo2235/book-reader-react-dashboard) | Digital library and reading experience | Flutter · Laravel · React |
-| [**MERN Chat**](https://github.com/Abdooo2235/MERN-Chat-App) | Real-time messaging and online presence | React · Node.js · MongoDB · Socket.io |
-| [**Inventory Management**](https://github.com/Abdooo2235/inventory-app-frontend) | Products, suppliers and orders | React · TypeScript · shadcn/ui |
-| [**Pixify AI**](https://github.com/Abdooo2235/Pixify-AI) | Image enhancement and upscaling | React · TypeScript · Express |
+| Project | About |
+| :--- | :--- |
+| **FoodScan / LibyaScan AI**<br><sub>Private · In development</sub> | A food-label scanner with Arabic and English nutrition OCR.<br><sub>Flutter · Laravel · FastAPI · PaddleOCR</sub> |
+| **Wahda Bank**<br><sub>Private</sub> | Tracks trade-finance documents through review and approval.<br><sub>Laravel · React · MySQL</sub> |
+| **Sawti**<br><sub>Private</sub> | A voice AI project from my work with GDG. |
+| **Book Reader** · [App](https://github.com/Abdooo2235/book-reader-flutter) / [API](https://github.com/Abdooo2235/book-reader-store-backend) / [Admin](https://github.com/Abdooo2235/book-reader-react-dashboard) | Read books, save progress and manage a personal library.<br><sub>Flutter · Laravel · React</sub> |
+| [**MERN Chat**](https://github.com/Abdooo2235/MERN-Chat-App) | Real-time chat with message history and online status.<br><sub>React · Node.js · MongoDB · Socket.io</sub> |
+| [**Inventory Management**](https://github.com/Abdooo2235/inventory-app-frontend) | Manage products, suppliers and orders from one dashboard.<br><sub>React · TypeScript · shadcn/ui</sub> |
+| [**Pixify AI**](https://github.com/Abdooo2235/Pixify-AI) | Enhance images and compare the results with the originals.<br><sub>React · TypeScript · Express</sub> |
 
 <details>
 <summary>More projects & repositories</summary>
 
 [auth](https://github.com/Abdooo2235/auth) · [book-store](https://github.com/Abdooo2235/book-store) · [book_app_flutter](https://github.com/Abdooo2235/book_app_flutter) · [Data-Science-Project](https://github.com/Abdooo2235/Data-Science-Project) · [lati_game_app](https://github.com/Abdooo2235/lati_game_app) · [listy](https://github.com/Abdooo2235/listy) · [note_app](https://github.com/Abdooo2235/note_app) · [protfolio-website](https://github.com/Abdooo2235/protfolio-website) · [RedditVideoMakerBot](https://github.com/Abdooo2235/RedditVideoMakerBot) · [to_do](https://github.com/Abdooo2235/to_do)
 
-**Forks** — upstream projects I have forked:
+**Forks of other developers' projects:**
 
 [claw-code-parity](https://github.com/Abdooo2235/claw-code-parity) · [codex-plugin-cc](https://github.com/Abdooo2235/codex-plugin-cc) · [framework](https://github.com/Abdooo2235/framework) · [image](https://github.com/Abdooo2235/image) · [opendataloader-pdf](https://github.com/Abdooo2235/opendataloader-pdf) · [rea](https://github.com/Abdooo2235/rea) · [tiktok-lossless-upload](https://github.com/Abdooo2235/tiktok-lossless-upload)
 
 </details>
 
-### Code in motion
+### GitHub activity
+
+<p align="center">
+  <a href="https://github.com/Abdooo2235?tab=overview">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg" />
+      <img src="assets/streak.svg" width="600" alt="Total contributions, current streak and longest streak on GitHub" />
+    </picture>
+  </a>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/contributions-dark.svg" />
   <img src="assets/contributions.svg" width="100%" alt="Snake animation generated from my GitHub contribution graph" />
 </picture>
 
-<p align="center"><sub>Built with <a href="https://github.com/tandpfun/skill-icons">Skill Icons</a> · <a href="https://github.com/DenverCoder1/readme-typing-svg">Typing SVG</a> · <a href="https://github.com/Platane/snk">snk</a></sub></p>
+<p align="center"><sub><a href="https://github.com/Abdooo2235/Abdooo2235/actions/workflows/contributions.yml">Activity last refreshed</a> · Built with <a href="https://github.com/tandpfun/skill-icons">Skill Icons</a> · <a href="https://github.com/DenverCoder1/readme-typing-svg">Typing SVG</a> · <a href="https://github.com/DenverCoder1/github-readme-streak-stats">Streak Stats</a> · <a href="https://github.com/Platane/snk">snk</a></sub></p>
