@@ -33,15 +33,41 @@ I'm a software engineer based in Benghazi, Libya, with experience in full-stack 
 
 ### Projects
 
-| Project | About |
-| :--- | :--- |
-| **FoodScan / LibyaScan AI**<br><sub>Private · In development</sub> | A food-label scanner with Arabic and English nutrition OCR.<br><sub>Flutter · Laravel · FastAPI · PaddleOCR</sub> |
-| **Wahda Bank**<br><sub>Private</sub> | Tracks trade-finance documents through review and approval.<br><sub>Laravel · React · MySQL</sub> |
-| **Sawti**<br><sub>Private</sub> | A voice AI project from my work with GDG. |
-| **Book Reader** · [App](https://github.com/Abdooo2235/book-reader-flutter) / [API](https://github.com/Abdooo2235/book-reader-store-backend) / [Admin](https://github.com/Abdooo2235/book-reader-react-dashboard) | Read books, save progress and manage a personal library.<br><sub>Flutter · Laravel · React</sub> |
-| [**MERN Chat**](https://github.com/Abdooo2235/MERN-Chat-App) | Real-time chat with message history and online status.<br><sub>React · Node.js · MongoDB · Socket.io</sub> |
-| [**Inventory Management**](https://github.com/Abdooo2235/inventory-app-frontend) | Manage products, suppliers and orders from one dashboard.<br><sub>React · TypeScript · shadcn/ui</sub> |
-| [**Pixify AI**](https://github.com/Abdooo2235/Pixify-AI) | Enhance images and compare the results with the originals.<br><sub>React · TypeScript · Express</sub> |
+<table width="100%">
+  <thead>
+    <tr><th width="32%" align="left">Project</th><th width="68%" align="left">Overview &amp; technologies</th></tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="top"><strong>FoodScan / LibyaScan AI</strong><br><sub>Private · In development</sub></td>
+      <td valign="top">Food-label scanning with Arabic and English nutrition OCR.<br><sub>Flutter · Laravel · FastAPI · PaddleOCR</sub></td>
+    </tr>
+    <tr>
+      <td valign="top"><strong>Wahda Bank</strong><br><sub>Private · Professional work</sub></td>
+      <td valign="top">Trade-finance document reviews and approval workflows.<br><sub>Laravel · React · MySQL</sub></td>
+    </tr>
+    <tr>
+      <td valign="top"><strong>Sawti</strong><br><sub>Private · GDG project</sub></td>
+      <td valign="top">A voice AI project developed through my GDG participation.<br><sub>Python · Voice AI</sub></td>
+    </tr>
+    <tr>
+      <td valign="top"><strong>Book Reader</strong><br><sub><a href="https://github.com/Abdooo2235/book-reader-flutter">Mobile app</a> · <a href="https://github.com/Abdooo2235/book-reader-store-backend">API</a> · <a href="https://github.com/Abdooo2235/book-reader-react-dashboard">Dashboard</a></sub></td>
+      <td valign="top">Digital reading, saved progress and personal libraries.<br><sub>Flutter · Laravel · React</sub></td>
+    </tr>
+    <tr>
+      <td valign="top"><strong>MERN Chat</strong><br><sub><a href="https://github.com/Abdooo2235/MERN-Chat-App">View repository</a></sub></td>
+      <td valign="top">Real-time messaging with chat history and online status.<br><sub>React · Node.js · MongoDB · Socket.io</sub></td>
+    </tr>
+    <tr>
+      <td valign="top"><strong>Inventory Management</strong><br><sub><a href="https://github.com/Abdooo2235/inventory-app-frontend">View repository</a></sub></td>
+      <td valign="top">A dashboard for products, suppliers and orders.<br><sub>React · TypeScript · shadcn/ui</sub></td>
+    </tr>
+    <tr>
+      <td valign="top"><strong>Pixify AI</strong><br><sub><a href="https://github.com/Abdooo2235/Pixify-AI">View repository</a></sub></td>
+      <td valign="top">Image enhancement with before-and-after comparisons.<br><sub>React · TypeScript · Express</sub></td>
+    </tr>
+  </tbody>
+</table>
 
 <details>
 <summary>More projects & repositories</summary>
