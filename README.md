@@ -17,8 +17,8 @@ Full-stack development at **Wahda Bank** · **GDG volunteer & software project d
 <p align="center">
   <a href="https://github.com/tandpfun/skill-icons">
     <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js,ts,php,python,java,dart,html,css,react,tailwind,laravel,nodejs,express,flutter,mysql,mongodb,docker,git,github,postman&amp;perline=7&amp;theme=light" />
-      <img src="https://skillicons.dev/icons?i=js,ts,php,python,java,dart,html,css,react,tailwind,laravel,nodejs,express,flutter,mysql,mongodb,docker,git,github,postman&amp;perline=7&amp;theme=dark" width="420" alt="JavaScript, TypeScript, PHP, Python, Java, Dart, HTML, CSS, React, Tailwind CSS, Laravel, Node.js, Express, Flutter, MySQL, MongoDB, Docker, Git, GitHub and Postman" />
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js%2Cts%2Cphp%2Cpython%2Cjava%2Cdart%2Chtml%2Ccss%2Creact%2Ctailwind%2Claravel%2Cnodejs%2Cexpress%2Cflutter%2Cmysql%2Cmongodb%2Cdocker%2Cgit%2Cgithub%2Cpostman&amp;perline=7&amp;theme=light" />
+      <img src="https://skillicons.dev/icons?i=js%2Cts%2Cphp%2Cpython%2Cjava%2Cdart%2Chtml%2Ccss%2Creact%2Ctailwind%2Claravel%2Cnodejs%2Cexpress%2Cflutter%2Cmysql%2Cmongodb%2Cdocker%2Cgit%2Cgithub%2Cpostman&amp;perline=7&amp;theme=dark" width="420" alt="JavaScript, TypeScript, PHP, Python, Java, Dart, HTML, CSS, React, Tailwind CSS, Laravel, Node.js, Express, Flutter, MySQL, MongoDB, Docker, Git, GitHub and Postman" />
     </picture>
   </a>
 </p>
