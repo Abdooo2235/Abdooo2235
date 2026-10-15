@@ -1,5 +1,6 @@
-<h1 align="center">Abdalrhman Mohamed Balam</h1>
-<p align="center"><strong>Software Engineer · Full-Stack Developer</strong><br>Benghazi, Libya</p>
+<h1 align="center">Hi, I'm Abdalrhman Balam</h1>
+<p align="center"><strong>Full-Stack Developer | React &amp; Laravel | Flutter</strong></p>
+<p align="center">I build web and mobile applications with clear interfaces, secure APIs and maintainable code.</p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=3000&amp;pause=1600&amp;color=2F81F7&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=45&amp;lines=Web+applications+and+REST+APIs;Cross-platform+apps+with+Flutter" width="600" alt="Web applications, REST APIs and cross-platform apps with Flutter" /></a>
@@ -10,9 +11,11 @@
   <a href="https://github.com/Abdooo2235?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore_projects-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Explore my projects" /></a>
 </p>
 
-I'm a software engineer in Benghazi. I work on trade-finance software at **Wahda Bank** and volunteer with **GDG**, where I've helped develop projects such as **Sawti**.
+### About me
 
-### Tools I use
+I'm a software engineer based in Benghazi, Libya, with experience in full-stack web development and Flutter mobile apps. At **Wahda Bank**, I work on document and compliance workflows, including role-based access and audit logging. I also volunteer with **GDG** and contribute to software projects such as **Sawti**.
+
+### Core skills
 
 <p align="center">
   <a href="https://github.com/tandpfun/skill-icons">
@@ -22,6 +25,11 @@ I'm a software engineer in Benghazi. I work on trade-finance software at **Wahda
     </picture>
   </a>
 </p>
+
+ - **Frontend:** React, TypeScript and Tailwind CSS for responsive interfaces and admin dashboards.
+ - **Backend:** Laravel, Node.js and Express for REST APIs, authentication and database-backed applications.
+ - **Mobile:** Flutter and Dart for cross-platform apps connected to backend services.
+ - **Development workflow:** Git, Docker and Postman for version control, containerized development and API testing.
 
 ### Projects
 
