@@ -13,7 +13,7 @@
 
 ### About me
 
-I'm a software engineer based in Benghazi, Libya, with experience in full-stack web development and Flutter mobile apps. At **Wahda Bank**, I work on document and compliance workflows, including role-based access and audit logging. I also volunteer with **GDG** and contribute to software projects such as **Sawti**.
+I'm a software engineer based in Benghazi, Libya, with experience in full-stack web development and Flutter mobile apps. At **Wahda Bank**, I work on as DevOps. I also volunteer with **GDG** and contribute to software projects.
 
 ### Core skills
 
