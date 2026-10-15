@@ -38,8 +38,8 @@ jobs:
           path: assets/streak-dark.svg
       - name: Save generated SVGs
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "Abdalrhman Mohamed Balam"
+          git config user.email "89781398+Abdooo2235@users.noreply.github.com"
           git add assets/contributions.svg assets/contributions-dark.svg assets/streak.svg assets/streak-dark.svg
           if git diff --cached --quiet; then exit 0; fi
           git commit -m "chore: refresh GitHub activity cards"
